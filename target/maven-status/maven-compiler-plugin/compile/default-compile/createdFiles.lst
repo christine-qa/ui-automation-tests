@@ -1,0 +1,6 @@
+ru\yandex\stellarburgers\pageObject\MainPageStellarBurgersSelenide.class
+ru\yandex\stellarburgers\pageObject\RegisterPageStellarBurgersSelenide.class
+ru\yandex\stellarburgers\pageObject\PersonalProfilePageStellarBurgersSelenide.class
+ru\yandex\stellarburgers\pageObject\ResetPasswordPageStellarBurgersSelenide.class
+ru\yandex\stellarburgers\StringGenerator.class
+ru\yandex\stellarburgers\pageObject\LoginPageStellarBurgersSelenide.class
